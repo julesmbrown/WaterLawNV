@@ -40,8 +40,8 @@ metadata: waterlaw
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
- organization-name: "Supreme Court of Nevada Law Library"
- organization-link: https://nvcourts.gov/lawlibrary
+organization-name: "Supreme Court of Nevada Law Library"
+organization-link: https://nvcourts.gov/lawlibrary
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 

@@ -10,16 +10,13 @@ credits: true
 
  {% include feature/jumbotron.html objectid="humboldtriver" %}
 
- {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+ {% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site provides access to Nevada's historical and current primary sources regarding water law and was created by Supreme Court of Nevada Law Library staff. For questions and suggestions relating to this database please email [reference@nvcourts.nv.gov](mailto:reference@nvcourts.nv.gov)  
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-This repository features Nevada Supreme Court cases and statutes on water law.  
+  
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 

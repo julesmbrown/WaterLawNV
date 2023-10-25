@@ -8,13 +8,15 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
- {% include feature/jumbotron.html objectid="humboldtriver" %}
+ 
 
  {% include feature/nav-menu.html sections="About the Collection;Important Terms" %}
 
 ## About the Collection
 
 This site provides access to Nevada's historical and current primary sources regarding water law and was created by Supreme Court of Nevada Law Library staff. For questions and suggestions regarding this database please email [reference@nvcourts.nv.gov](mailto:reference@nvcourts.nv.gov)  
+
+To learn more about the resources and services avilable at the Law Library, visit the [Supreme Court of Nevada Law Library](https://nvcourts.gov/lawlibrary) website!
 
 ## Important Terms
 
@@ -64,6 +66,7 @@ SYSTEM YIELD: The amount of usable water from both the groundwater reservoir and
 USUFRUCTUARY RIGHT: The right of an individual to use water for beneficial use, but they do not 'own' the water; the water belongs to the people of the state of Nevada (Public).
 
 
-To learn more about the resources and services avilable, visit the [Supreme Court of Nevada Law Library](https://nvcourts.gov/lawlibrary) website!
+
+
 
 

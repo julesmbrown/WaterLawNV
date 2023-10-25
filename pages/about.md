@@ -10,7 +10,7 @@ credits: true
 
  {% include feature/jumbotron.html objectid="humboldtriver" %}
 
- {% include feature/nav-menu.html sections="About the Collection,Important Terms" %}
+ {% include feature/nav-menu.html sections="About the Collection;Important Terms" %}
 
 ## About the Collection
 

@@ -16,6 +16,8 @@ credits: true
 
 This site provides access to Nevada's historical and current primary sources regarding water law and was created by Supreme Court of Nevada Law Library staff. For questions and suggestions regarding this database please email [reference@nvcourts.nv.gov](mailto:reference@nvcourts.nv.gov)  
 
+For secondary sources and federal resources check out our [Nevada Water Law Guide](https://nvsctlawlib.libguides.com/waterrights). 
+
 To learn more about the resources and services avilable at the Law Library, visit the [Supreme Court of Nevada Law Library](https://nvcourts.gov/lawlibrary) website!
 
 ## Important Terms
